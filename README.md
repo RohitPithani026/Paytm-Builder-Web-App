@@ -23,11 +23,6 @@ A web application designed to mimic the **Paytm** interface, allowing users to s
     
     -   Buttons and forms designed for a user-friendly experience.
 
-----------
-
-## Screenshots 📸
-
-_Add relevant screenshots here to showcase the user interface and key features of the app (e.g., account setup, fund addition, payments, etc.)._
 
 ----------
 
